@@ -1,0 +1,7 @@
+IT'S SHOWTIME
+TALK TO THE HAND "hello world"
+YOU HAVE BEEN TERMINATED
+
+
+java -jar ArnoldC.jar hello.arnoldc
+java hello
